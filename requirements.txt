@@ -1,0 +1,6 @@
+python-telegram-bot
+httpx
+pyotp
+requests
+bs4
+dotenv
